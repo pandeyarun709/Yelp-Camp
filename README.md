@@ -28,7 +28,7 @@ npm
 ```
 * [npm](https://www.npmjs.com/get-npm/)
 ```
-npm
+mongodb
 
 ```
 * [mongodb](https://docs.mongodb.com/manual/installation/)
