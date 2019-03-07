@@ -12,11 +12,6 @@ What things you need to install the software and how to install them
 ```
 * nodejs 
 * npm 
-* express.js 
-* mongoose 
-* passport 
-* ejs  
-* passport-local 
 * MongoDB (database)
 ```
 
