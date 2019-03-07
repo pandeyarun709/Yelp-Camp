@@ -24,19 +24,18 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
-First install Nodejs
+ Nodejs 
 
 ```
-install 
 * [nodejs](https://nodejs.org/en/)
+
 ```
 npm
 
 ```
-install 
-* [npm](https://www.npmjs.com/get-npm)
+* [npm](https://www.npmjs.com/get-npm/)
 ```
-install all require for Project 
+Install All Dependencies For Project 
 
 ```
 * Run command :- npm install 
@@ -49,6 +48,5 @@ install all require for Project
 ```
 * Run command :- node app.js
 ```
-
 
 
